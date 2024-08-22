@@ -8,6 +8,7 @@ Student at Skyline High School. Project graduation 2025.
 * TBD
 * His name will be "Buddy" but it may change.
 * Helps get or do stuff like tricks. It will also solve puzzles and build things.
+* TBD
 ## Projects for Term 2
 
 ![title](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
