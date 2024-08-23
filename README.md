@@ -1,4 +1,4 @@
-# (Team Name TBD)  Robotics Portfolio 2024-25
+# Peak Bots Robotics Portfolio 2024-25
 
 * Team Name: Peak Bots
 * Robbot Name: " Wall-E " 
