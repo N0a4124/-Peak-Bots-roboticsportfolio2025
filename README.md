@@ -1,4 +1,4 @@
-# N0a4's Robotics Portfolio 2024-25
+# Noah's Robotics Portfolio 2024-25
 Student at Skyline High School. Project graduation 2025. 
 * Proficient in Typing
 * Skilled in Photoshop
