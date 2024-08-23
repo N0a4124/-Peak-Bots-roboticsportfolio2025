@@ -1,14 +1,6 @@
-# Noah's Robotics Portfolio 2024-25
-Student at Skyline High School. Project graduation 2025. 
-* Proficient in Typing
-* Skilled in Photoshop
-* Skilled in MTB
+# (Team Name TBD)  Robotics Portfolio 2024-25
 
-## Projects for Term 1
-* TBD
-* His name will be "Buddy" but it may change.
-* Helps get or do stuff like tricks. It will also solve puzzles and build things.
-* TBD
-## Projects for Term 2
-
-![title](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
+* Team Name: TBD
+* Robbot Name: "Buddy" but it may change.
+* Purpose: Helps get stuff or does tricks. It may also solve puzzles and/or build things.
+* Images & src: created
