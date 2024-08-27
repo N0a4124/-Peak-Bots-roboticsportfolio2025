@@ -3,7 +3,8 @@
 * Team Name: Peak Bots
 * Robbot Name: " Wall-E " 
 * Purpose: Helps get stuff or does tricks. It may also solve puzzles and build things.
-* Images & src: created
+* Images & src: created [image](https://github.com/user-attachments/assets/403440f2-0382-40b2-8a8e-a4f87d2656b4)
+
 
 # Coder and Leader: Noah El Mansouri
 * Writes and tests the code that controls the robot.
