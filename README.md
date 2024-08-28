@@ -4,8 +4,8 @@
 * Robbot Name: " Wall-E " 
 * Purpose: Helps get stuff or does tricks. It may also solve puzzles and build things.
 * Images & src: created
-* This is our chassis design,wheel,and base:
-* [image](https://github.com/user-attachments/assets/403440f2-0382-40b2-8a8e-a4f87d2656b4)
+* This is our chassis design, wheel, and base:
+* [image](https://github.com/user-attachments/assets/403440f2-0382-40b2-8a8e-a4f87d2656b4) 
 * [image](https://github.com/user-attachments/assets/1406873c-1fce-4fa0-877d-f385f05d5465)
 * [image](https://github.com/user-attachments/assets/adef4a9f-fb04-42a1-88b9-330993956b45)
 
