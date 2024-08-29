@@ -18,11 +18,18 @@
 * Works closely with the electrical and mechanical teams to ensure the code works with the hardware.
 * Debugs software issues during testing.
 
-# Bulders: Warner Hobbs & Alexander Shibbonbitch.
+# Bulders: Warner Hobbs 
 * Designs and builds the robot’s physical structure.
 * Works on the drivetrain, chassis, and mechanical systems (e.g., arms, lifts, grippers).
 * Ensures that the robot meets size, weight, and functional requirements.
 * Collaborates with the CAD designer to turn designs into reality.
+
+# Alexander Shimanovitch
+* Designs and builds the robot’s physical structure.
+* Works on the drivetrain, chassis, and mechanical systems (e.g., arms, lifts, grippers).
+* Ensures that the robot meets size, weight, and functional requirements.
+* Collaborates with the CAD designer to turn designs into reality.
+
 
 # Driver: Isaac Thaxtonweaver
 * Operates the robot during competitions.
