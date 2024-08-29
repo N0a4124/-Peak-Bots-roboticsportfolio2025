@@ -18,13 +18,13 @@
 * Works closely with the electrical and mechanical teams to ensure the code works with the hardware.
 * Debugs software issues during testing.
 
-# Bulders: Warner Hobbs 
+# Builder: Warner Hobbs 
 * Designs and builds the robot’s physical structure.
 * Works on the drivetrain, chassis, and mechanical systems (e.g., arms, lifts, grippers).
 * Ensures that the robot meets size, weight, and functional requirements.
 * Collaborates with the CAD designer to turn designs into reality.
 
-# Alexander Shimanovitch
+# Builder: Alexander Shimanovitch
 * Designs and builds the robot’s physical structure.
 * Works on the drivetrain, chassis, and mechanical systems (e.g., arms, lifts, grippers).
 * Ensures that the robot meets size, weight, and functional requirements.
