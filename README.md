@@ -24,7 +24,7 @@
 * Ensures that the robot meets size, weight, and functional requirements.
 * Collaborates with the CAD designer to turn designs into reality.
 
-# Driver: Issac Thaxtonweaver
+# Driver: Isaac Thaxtonweaver
 * Operates the robot during competitions.
 * Practices regularly to improve skill and coordination.
 * Works closely with the programmer to understand the robot’s capabilities.
